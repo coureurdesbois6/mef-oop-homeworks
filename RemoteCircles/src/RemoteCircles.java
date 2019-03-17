@@ -1,6 +1,7 @@
 /**
  * @author Yigit Sezer
  * @since March 3, 2019
+ * Dependencies: StdDraw.java
  * Description: Draws 'n' random circles on the screen and shows the furthest two circles. 
  */
 
