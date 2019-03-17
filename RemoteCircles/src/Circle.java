@@ -1,6 +1,7 @@
 /**
- * @author Yigit Sezer, Student ID: 041801089
+ * @author Yigit Sezer
  * @since March 3, 2019
+ * Dependencies: StdDraw.java
  * Description: Circle class used to store x, y, r values for circle objects that can be drawn on screen
  */
 public class Circle {
